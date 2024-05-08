@@ -7,12 +7,12 @@
   font-size: 24px;
 }
 
-.oneID {
+#oneID {
   color:blue;
   font-size: 36px;
 }
 
-.anotherID {
+#anotherID {
   background-color: lightgreen;
   font-size: 24px;
   font-weight: bold;

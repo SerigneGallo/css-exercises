@@ -6,7 +6,7 @@
 .cooler {
   font-size: 24px;
 }
-
+/*mistake between . et # for an ID attribute, correct now*/
 #oneID {
   color:blue;
   font-size: 36px;

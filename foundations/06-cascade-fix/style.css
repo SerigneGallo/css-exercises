@@ -24,7 +24,7 @@ body {
   font-size: 20px;
 }
 
-.text .child,
+div.text.child,
 .small-para {
   color: rgb(0, 0, 0);
   font-weight: 800;

@@ -24,15 +24,18 @@ body {
   font-size: 20px;
 }
 
-.small-para,
-.text.child {
-  color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
-}
-
-.text {
+div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
+}
+
+.small-para {
+  font-size: 14px;
+}
+
+div.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
 }

@@ -11,7 +11,8 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
-  margin: 19px;
+  margin: 20px;
+  margin-bottom: 20px;
 }
 
 /* do not edit this footer */
@@ -29,16 +30,12 @@ img {
 
 .plantbox {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 52px;
 }
 
-.plantone,
-.planttwo,
-.plantthree,
-.plantfour {
-  display:flex;
-  flex-direction: column;
-  align-items: center;
+.plant {
+  text-align: center;
 }
 
 div .text {

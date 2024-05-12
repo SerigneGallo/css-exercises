@@ -64,14 +64,21 @@ li {
   /*flex-wrap: wrap;*/
 }
 
+.container-card-one,
+.container-card-two {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between
+}
 .container-card {
   margin: 50px;
 }
 
 div .card {
   margin: 15px;
-  padding-bottom: 180px;
+  padding-bottom: 260px;
   padding-left: 20px;
   padding-top: 20px;
   padding-right: 20px;
+  flex: 1 1 15%;
 }

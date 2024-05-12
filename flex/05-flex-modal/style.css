@@ -21,7 +21,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   /* Exercices: */
-  padding:15px;
+  padding:16px;
 }
 
 .icon {
@@ -94,6 +94,7 @@ button.cancel {
   margin-left: 50px;
   margin-top: -10px;
   margin-bottom: 19px;
+  width: 420px;
 }
 
 .button-down {

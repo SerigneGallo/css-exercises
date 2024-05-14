@@ -47,7 +47,7 @@ a {
 
 ul {
   list-style-type: none;
-  height: 1000px;
+  height: 100%;
   width: 190px;
   margin-left: -29px;
   margin-top: 5px;
@@ -57,8 +57,7 @@ li {
   margin-bottom: 9px;
 }
 
-.container-card-one,
-.container-card-two,
+
 .container-sidebar-card {
   display: flex;
   /*flex-wrap: wrap;*/
